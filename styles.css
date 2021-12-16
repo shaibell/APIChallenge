@@ -1,0 +1,11 @@
+body {
+    background-color: honeydew;
+    align-items: center;
+    justify-content: center;
+}
+
+#name-search {
+    width: 60%;
+    margin: auto;
+
+}
