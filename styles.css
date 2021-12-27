@@ -1,11 +1,35 @@
 body {
     background-color: honeydew;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
 }
+
+
 
 #name-search {
-    width: 60%;
-    margin: auto;
-
+    text-align: center;
 }
+
+#search-bar {
+    
+    justify-content: center;
+    }
+    
+    #lookUp {
+      
+       text-align: center;
+    }
+    
+    #results-returned {
+        
+            border-radius: 15px 50px;
+            background: lemonchiffon;
+            margin: 2px 560px 20px 580px;
+            padding: 20px;
+            width: 200px;
+            height: 150px;
+
+    }
+    
+        
+    
